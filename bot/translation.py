@@ -21,7 +21,7 @@ For More Details Click Help Button Below..
 -> This Page is Only For Admins
 </i>
 
-<b>Bot Commands (Only For Admin's Group) :</b>
+<b>Admin Commands (Only For Admin's Group) :</b>
 
     -> <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
