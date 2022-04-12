@@ -1640,7 +1640,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/finder004'),
-            InlineKeyboardButton('Source Code 🧾', text ='Not For Users')
+            InlineKeyboardButton('Updates', url ='https://t.me/findhub04')
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/FinderSupport')
         ],[
