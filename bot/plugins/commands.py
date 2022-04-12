@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/finder004"
+                                    'Developers', url="https://t.me/findhub04"
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/finder004'),
+        InlineKeyboardButton('Developers', url='https://t.me/findhub04'),
         InlineKeyboardButton('Source Code 🧾', text ='Not For Users')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/FinderSupport')
