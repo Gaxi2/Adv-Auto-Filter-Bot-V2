@@ -14,14 +14,14 @@ For More Details Click Help Button Below..
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>Assistance Cmds</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Join The @findinghub
+-> This Page is Only For Admins
 </i>
 
-<b>Bot Commands (Works Only In Groups) :</b>
+<b>Bot Commands (Only For Admin's Group) :</b>
 
     -> <code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
